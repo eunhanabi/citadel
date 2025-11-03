@@ -4,14 +4,24 @@
 entries:
   - title: info
     entries:
-      - title: This is Salvadorr's citadel.
+      - title: A quiet citadel.
 
-  - title: all posts
+  - title: recent posts
     post_list:
       limit: 5
+
+  - title: research
+    post_list:
+      category: research
+      limit: 6
       show_more: true
       show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_url: research_archive.html
+
+  - title: miscellaneous
+    entries:
+      - title: <a href="./equipments.html">equipments</a> -> to see my equipments...
+      - title: <a href="https://github.com/eunhanabi/">Github</a> -> my github repo
 
   - title: rss
     url: feed.xml
