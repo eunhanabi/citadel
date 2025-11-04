@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: citadel | 銀河
+title: citadel from 銀河
 email: eunhaanabi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     This is my little citadel. I do what I want.
