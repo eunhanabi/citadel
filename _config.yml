@@ -31,7 +31,9 @@ github_username:  eunhanabi
 theme: no-style-please
 plugins:
   - jekyll-feed
-
+analytics:
+  goatcounter:
+    id: eunha
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
