@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09b9f543bf9c606c",
+        "id": "f89fa83e4f8e91f1",
         "type": "tabs",
         "children": [
           {
-            "id": "05687d2612d2967a",
+            "id": "ab8d281628eb76e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/My Keyboard Journey - Start.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "My Keyboard Journey - Start"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Introduce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,9 +166,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "05687d2612d2967a",
+  "active": "ab8d281628eb76e2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "_posts/2025-08-08-welcome-to-jekyll.md"
+    "_posts/2025-08-08-welcome-to-jekyll.md",
+    "_posts/My Keyboard Journey - Start.md"
   ]
 }
