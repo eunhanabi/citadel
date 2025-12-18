@@ -20,8 +20,8 @@ entries:
 
   - title: miscellaneous
     entries:
-      - title: <a href="./equipments.html">equipments</a> -> to see my equipments...
-      - title: <a href="https://github.com/eunhanabi/">Github</a> -> my github repo
+      - title: <a href="./equipments.html">equipments</a>
+      - title: <a href="https://github.com/eunhanabi/">Github</a>
 
   - title: rss
     url: feed.xml
