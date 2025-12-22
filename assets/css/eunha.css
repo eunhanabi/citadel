@@ -1,0 +1,21 @@
+@import "./input/input.css";
+@import "./color/color.css";
+
+@font-face {
+    font-family: "eunha-basic";
+    src: url("../fonts/maruburi/MaruBuri-Regular.ttf") format("ttf");
+    unicode-range: U+AC00-D7AF; 
+	font-style: normal;
+}
+
+@font-face {
+    font-family: "eunha-basic";
+    src: url("../fonts/Space_Mono/SpaceMono-Regular.ttf") format("ttf");
+    unicode-range:  U+0030-0039, U+0041-005A, U+0061-007A;
+	font-style: normal;
+}
+
+body {
+    font-family: "eunha-basic";
+    color: var(main_black);
+}

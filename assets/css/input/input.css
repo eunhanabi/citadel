@@ -1,0 +1,26 @@
+@import "../color/color.css";
+
+input {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    background: transparent;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="checkbox"],
+input[type="radio"] {
+    border-radius: 1px solid var(main_black);
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border: 1px solid var(main_black);
+}
