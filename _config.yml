@@ -21,12 +21,12 @@
 title: citadel from 銀河
 email: eunhaanabi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    This is my little citadel. I do what I want.
+    This is my little citadel.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://citadel.eunha.kr"# the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  eunhanabi
-
+goat_counter: eunha
 # Build settings
 theme: no-style-please
 plugins:
